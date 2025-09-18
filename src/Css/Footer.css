@@ -1,0 +1,19 @@
+.footer {
+    background-color: #282c34;
+    color: white;
+    padding: 1rem 2rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    position: fixed;
+    /* דבוק למקום קבוע */
+    bottom: 0;
+    /* למטה */
+    left: 0;
+    /* מצד שמאל */
+    width: 100%;
+    margin-top: 46%;
+    padding: '1rem';
+}
